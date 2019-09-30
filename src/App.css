@@ -1,0 +1,38 @@
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-image: url('https://papeldeparededigital.com.br/media/catalog/product/cache/1/thumbnail/600x/17f82f742ffe127f42dca9de82fb58b1/p/p/ppdfl202-58cm.jpg');   /* #282c34;*/
+  min-height: 7vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(41px + 2vmin);
+  font-family: Forte;
+  color: rgb(13, 0, 128);
+}
+
+.buttons {
+  text-align: center;
+  background-color: green;
+}
+
+
+.card {
+justify-content: 'center';
+-ms-grid-row-align: center;
+justify-content: center;
+justify-items: center;
+}
+
+.App-link {
+  color: #e2a35aa2;
+}
+
